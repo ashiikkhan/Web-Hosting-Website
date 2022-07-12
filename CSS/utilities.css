@@ -29,6 +29,27 @@
   background-color: transparent;
   border: 1px solid #fff;
 }
+/* bg and btn colored */
+.bg-primary,
+.btn-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+.bg-secondary,
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+.bg-dark,
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+.bg-light,
+.btn-light {
+  background-color: var(--light-color);
+  color: #333;
+}
 .text-center {
   text-align: center;
 }
